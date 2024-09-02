@@ -30,5 +30,8 @@ To go about the python project, we’ll:
 
 # Demo video of application
 
-
+<video width="640" height="360" controls>
+  <source src="Demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 # Junwen Wang - Virginia Tech
