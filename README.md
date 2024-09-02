@@ -1,4 +1,4 @@
-# Junwen-Real-Time-Gender-and-Age-Detection-with-OpenCV
+# Real-Time-Gender-and-Age-Detection-with-OpenCV
 
 # Objective:
 
