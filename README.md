@@ -11,7 +11,22 @@ In this Python Project, I had used Deep Learning to accurately identify the gend
 # Additional Python Libraries Required :
 * OpenCV
 * argparse
-* 
+
+# The CNN Architecture
+The convolutional neural network for this python project has 3 convolutional layers:
+
+Convolutional layer; 96 nodes, kernel size 7
+Convolutional layer; 256 nodes, kernel size 5
+Convolutional layer; 384 nodes, kernel size 3
+It has 2 fully connected layers, each with 512 nodes, and a final output layer of softmax type.
+
+To go about the python project, we’ll:
+
+Detect faces
+Classify into Male/Female
+Classify into one of the 8 age ranges
+Put the results on the image and display it
+
 # Demo video of application
 
 
