@@ -30,5 +30,6 @@ To go about the python project, we’ll:
 
 # Demo video of application
 
+https://github.com/SwingRain/SwingRain-Real-Time-Gender-and-Age-Detection-with-OpenCV/blob/main/Demo.mp4
 
 # Junwen Wang - Virginia Tech
